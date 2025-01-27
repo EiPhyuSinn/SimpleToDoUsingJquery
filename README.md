@@ -28,17 +28,3 @@ This repository contains a simple to-do list web application built using HTML, C
 - `style.css`: Stylesheet file containing the CSS styles for the application.
 
 - `script.js`: JavaScript file containing the jQuery code for adding functionality to the to-do list.
-
-## Dependencies
-
-This project relies on the following dependencies:
-
-- **jQuery**: Ensure that jQuery is included in your project for the application to work properly. You can either download it or include it via CDN.
-
-## Contributing
-
-Contributions to this project are welcome! If you have any suggestions, improvements, or new features to add, feel free to open an issue or create a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
